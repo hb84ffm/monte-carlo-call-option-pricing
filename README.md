@@ -1,6 +1,6 @@
 # monte-carlo-call-option-pricing
 
-A Python module to price a Euroepan call option at t=0 using a Monte Carlo simulation, which is benchmarked agains the Black Schoels formula.
+A Python module to price a Euroepan call option at t=0 by Monte Carlo simulation, which is benchmarked against Black Schoels formula.
 
 ### FEATURES
 - Simulates stock prices following a geometric Brownian motion
