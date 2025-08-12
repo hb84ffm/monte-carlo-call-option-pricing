@@ -26,7 +26,7 @@ A Python module to price a Euroepan call option at t=0 by Monte Carlo simulation
 3. Apply method run() afterwards, which orchestrates the simulation and plotting of the two bar charts<br>
 
 ### EXAMPLE WORKFLOW
-See provided Jupyter notebook **example.ipynb** for explanation.
+See provided Jupyter notebook [example](https://github.com/hb84ffm/monte-carlo-call-option-pricing/blob/main/example.ipynb) for explanation.
 
 ### AUTHOR
 For questions or feedback reach out to me via: [GitHub](https://github.com/hb84ffm).
